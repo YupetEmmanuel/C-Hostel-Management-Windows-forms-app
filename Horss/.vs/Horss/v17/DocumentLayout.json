@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# projects\\Horss\\Horss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|e:\\c# projects\\horss\\horss\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|E:\\c# projects\\Horss\\Horss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|E:\\c# projects\\Horss\\Horss\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|solutionrelative:fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|E:\\c# projects\\Horss\\Horss\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|solutionrelative:fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|E:\\c# projects\\Horss\\Horss\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BAAA346-EDFA-44BB-8EFF-67A66678EBBF}|Horss.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\c# projects\\Horss\\Horss\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\c# projects\\Horss\\Horss\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T04:34:42.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\c# projects\\Horss\\Horss\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\c# projects\\Horss\\Horss\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:22:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "E:\\c# projects\\Horss\\Horss\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\c# projects\\Horss\\Horss\\Student.cs [Design]",
+              "RelativeToolTip": "Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:22:54.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fees.cs",
+              "DocumentMoniker": "E:\\c# projects\\Horss\\Horss\\Fees.cs",
+              "RelativeDocumentMoniker": "Fees.cs",
+              "ToolTip": "E:\\c# projects\\Horss\\Horss\\Fees.cs",
+              "RelativeToolTip": "Fees.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:21:09.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fees.cs [Design]",
+              "DocumentMoniker": "E:\\c# projects\\Horss\\Horss\\Fees.cs",
+              "RelativeDocumentMoniker": "Fees.cs",
+              "ToolTip": "E:\\c# projects\\Horss\\Horss\\Fees.cs [Design]*",
+              "RelativeToolTip": "Fees.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:20:24.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

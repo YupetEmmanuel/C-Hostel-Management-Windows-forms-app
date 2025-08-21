@@ -1,0 +1,5 @@
+﻿Build started at 2:14 PM...
+1>------ Build started: Project: Horss, Configuration: Debug Any CPU ------
+1>  Horss -> E:\c# projects\Horss\Horss\bin\Debug\Horss.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:14 PM and took 00.723 seconds ==========
